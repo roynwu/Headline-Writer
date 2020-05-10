@@ -14,7 +14,7 @@ We use [“All the news”](https://components.one/datasets/all-the-news-article
 Pipeline
 
 <p align="center">
-  <img src="https://github.com/roynwu/Headline-Writer/blob/master/pipeline.png">
+  <img width="700" src="https://github.com/roynwu/Headline-Writer/blob/master/pipeline.png">
 </p> 
 
 Summary of methods used in our experiments
@@ -34,7 +34,7 @@ Figure of Pointer-Generator Network
 Loss curves
 
 <p align="center">
-  <img src="https://github.com/roynwu/Headline-Writer/blob/master/loss%20curve.png">
+  <img width="700" src="https://github.com/roynwu/Headline-Writer/blob/master/loss%20curve.png">
 </p> 
 
 Result comparison on data subset
@@ -46,7 +46,7 @@ Result comparison on data subset
 Example
 
 <p align="center">
-  <img src="https://github.com/roynwu/Headline-Writer/blob/master/generated%20text.png">
+  <img width="600" src="https://github.com/roynwu/Headline-Writer/blob/master/generated%20text.png">
 </p> 
 
 ## Conclusion
