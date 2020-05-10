@@ -54,3 +54,7 @@ Result comparison on data subset
 * 4 - Pointer generator and coverage approach can significantly reduce the occurrence of the model generating faulty information by including the probability of directly outputting words from the source text
 
 * 5 - Our best model (BiLSTM with self-attention, pointer generator, and coverage structure) beats our main source paper’s BLEU score of 0.010 [Lopyrev](https://arxiv.org/pdf/1512.01712.pdf) by 0.075
+
+## References
+
+See report for details.
