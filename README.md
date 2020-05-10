@@ -43,6 +43,12 @@ Result comparison on data subset
   <img src="https://github.com/roynwu/Headline-Writer/blob/master/results_table.png">
 </p> 
 
+Example
+
+<p align="center">
+  <img src="https://github.com/roynwu/Headline-Writer/blob/master/generated%20text.png">
+</p> 
+
 ## Conclusion
 
 * 1 - BiLSTM is the base RNN unit that has the best performance in our application scenario, (possible reason may be that BiLSTM can utilize the information from both previous and posterior context)
